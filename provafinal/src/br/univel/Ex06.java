@@ -17,7 +17,7 @@ public class Ex06 {
 		int a = 1;
 		int b = 1;
 		System.out.println(a + "," + b);
-		while(b > res) {
+		while(b < res) {
 			System.out.println("," + (a + b));
 			if(a > b) 
 				b += a;

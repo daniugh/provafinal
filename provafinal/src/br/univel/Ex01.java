@@ -1,8 +1,6 @@
 package br.univel;
 
 public class Ex01 {
-	
-	Integer codigo = 169456;
 
 	public static void execute(int num) {
 		String str = String.valueOf(num);
